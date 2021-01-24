@@ -6,4 +6,4 @@ export const PLATFORM_NAME = 'homebridge-eva-II';
 /**
  * This must match the name of your plugin as defined the package.json
  */
-export const PLUGIN_NAME = 'homebridge-eva-II';
+export const PLUGIN_NAME = '@glampr/homebridge-eva-II';
